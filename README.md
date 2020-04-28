@@ -18,6 +18,10 @@
 
 [Live Demo Link](https://euqueme.github.io/html-forms/)
 
+## Automated Test
+
+> there are no automated tests for this project yet
+
 ## Author
 
 👤 **María Eugenia Quemé**
